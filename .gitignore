@@ -146,6 +146,7 @@ cache/*
 # TMP IGNORE
 agent/prompts/jsons/*
 log_files/
+
 config_files*/*0.json
 config_files*/*1.json
 config_files*/*2.json
@@ -157,3 +158,9 @@ config_files*/*7.json
 config_files*/*8.json
 config_files*/*9.json
 config_files*/test.json
+
+# mine
+.github/
+.idea/
+test_cache/
+outputs/
